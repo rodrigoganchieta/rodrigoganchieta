@@ -1,27 +1,35 @@
-# <img class="emoji" src="https://avatars.githubusercontent.com/u/43011556" style="vertical-align: middle; width: 38px; height: 38px;"> &nbsp;Sobre mim
+# <img class="emoji" src="https://avatars.githubusercontent.com/u/43011556" style="vertical-align: middle; width: 38px; height: 38px;"> &nbsp;About me
 
+#### Passionate About Technology and Innovation 🚀
 
-Eu sou apaixonado em criar soluções de negócios para grandes empresas usando tecnologia e inovação.
+With over <b>14 years of experience</b> in developing web architecture projects, I am committed to creating <b>innovative technological solutions</b> that drive the success of large businesses. Throughout my career, I have witnessed the digital transformation of the internet and the rise of new technologies, constantly challenging myself to <b>adapt, learn, and deliver</b> impactful results.
 
-Possuo mais de 12 anos de experiência em desenvolvimento de projetos com arquiteturas web, e ao longo desse período vivenciei a transformação digital da internet e o surgimento de diversas tecnologias de mercado, sendo desafiado diariamente a obter novos conhecimentos.
+#### 💼 Professional Highlights:
 
-Tenho grande facilidade de aprendizado e sou entusiasmado por novos desafios e conhecimento, sou flexível, proativo e comprometido. Gosto de liderar o time pelo “exemplo” e conhecimento técnico, buscando trabalhar com um time engajado, comunicativo e com espirito de equipe.
+- Designing scalable and robust architectures for complex systems, focusing on microservices and cloud-based solutions.
+- Quick learner with a strong enthusiasm for new challenges and continuous growth.
+- Flexible, proactive, and highly committed to every stage of project development.
+- Experienced in technical leadership, guiding teams by example, sharing knowledge, and fostering a culture of engagement, communication, and teamwork.
 
-Entregar resultados, metas e novos projetos são desafios que aprecio e fazem parte do meu dia a dia.
+#### 🎯 My Purpose:
 
-Estou sempre de portas abertas a para novos desafios, novas tecnologias, ensinamentos, cursos e aprendizados!
+Delivering results, achieving goals, and leading new projects are at the core of my daily work. I like to transform ideas into solutions that add value to businesses and empower the teams I work with.
 
-Atualmente dedico minhas habilidades ao projeto Pedido Web(PW), a principal aplicação de vendas das lojas Novo Mundo, ganhador do <a href="https://blogs.oracle.com/cloud-infrastructure/post/oracle-excellence-awards-2022">Prêmio Oracle Excellence Awards 2022 na categoria "Application Modernization Champion"</a>.
+#### 📌 Currently:
 
-Para mais detalhes entre em contato.
+I dedicate my skills to the Pedido Web (PW) project, the main sales application for Novo Mundo stores, recognized with the Oracle Excellence Awards 2022 in the Application Modernization Champion category. This award highlights the impact and relevance of the work my team and I have accomplished.
 
-Acesse meu currículo online: <a href="https://rodrigoganchieta.github.io"/>https://rodrigoganchieta.github.io/</a>
+#### 🏆 Learn more about the award:
+<a href="https://blogs.oracle.com/cloud-infrastructure/post/oracle-excellence-awards-2022" target="_blank"> Oracle Excellence Awards 2022</a>
 
-E-mail: <a href="mailto:rodrigoganchieta@gmail.com">rodrigoganchieta@gmail.com</a>
+#### 📬 Contact:
+Email: <a href="mailto:rodrigoganchieta@gmail.com">rodrigoganchieta@gmail.com</a>
 
-Muito obrigado!! 🙏
+My resume online: <a href="https://rodrigoganchieta.github.io"/>https://rodrigoganchieta.github.io/</a>
 
-<h3><a href="https://rodrigoganchieta.github.io/cv/rodrigo-goncalves-de-anchieta-curriculo.pdf">Download CV</a></h3>
+##### Thank you!! 🙏
+
+### <a href="https://rodrigoganchieta.github.io/cv/resume-rodrigo-goncalves-de-anchieta.pdf">Download CV</a>
 
 # :book: &nbsp;Contato
 
