@@ -20,14 +20,14 @@ Delivering results, achieving goals, and leading new projects are at the core of
 I dedicate my skills to the Pedido Web (PW) project, the main sales application for Novo Mundo stores, recognized with the Oracle Excellence Awards 2022 in the Application Modernization Champion category. This award highlights the impact and relevance of the work my team and I have accomplished.
 
 #### 🏆 Learn more about the award:
-<a href="https://blogs.oracle.com/cloud-infrastructure/post/oracle-excellence-awards-2022" target="_blank"> Oracle Excellence Awards 2022</a>
+<a href="https://blogs.oracle.com/cloud-infrastructure/post/oracle-excellence-awards-2022"> Oracle Excellence Awards 2022</a>
 
 #### 📬 Contact:
 Email: <a href="mailto:rodrigoganchieta@gmail.com">rodrigoganchieta@gmail.com</a>
 
 My resume online: <a href="https://rodrigoganchieta.github.io"/>https://rodrigoganchieta.github.io/</a>
 
-##### Thank you!! 🙏
+#### Thank you!! 🙏
 
 ### <a href="https://rodrigoganchieta.github.io/cv/resume-rodrigo-goncalves-de-anchieta.pdf">Download CV</a>
 
